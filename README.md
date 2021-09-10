@@ -19,7 +19,7 @@ After my first project was rejected because of plargarism, I clone the project s
 
 ## State Management
 1. The first thing I did was to modified App.js file in order to be able to change book from one shelf to another.
-2. This made me to update the version of react from 16.6.3 to 16.7.3. This was beacuse the starter project code came with the old version of react which does not support use of useState() method.
+2. This made me to update the version of react from 16.6.3 to 16.8.0. This was beacuse the starter project code came with the old version of react which does not support use of useState() method.
 
 ## Installation
 
