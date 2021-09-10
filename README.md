@@ -19,7 +19,7 @@ After my first project was rejected because of plargarism, I clone the project s
 
 ## State Management
 1. The first thing I did was to modified App.js file in order to be able to change book from one shelf to another.
-2. This made me to update the version of react from 16.6.3 to 16.7.3. This was beacuse the starter project code came with the old version of react which does not support use of useState() method.
+2. This made me to update the version of react from 16.6.3 to 16.8.0. This was beacuse the starter project code came with the old version of react which does not support use of useState() method.
 
 ## Installation
 
@@ -43,8 +43,8 @@ The project can be viewed in the browser at
 
 ## References
 The following were resources were very helpful to me during the project.
-[Udacity MyReads #1 - How to Plan and Refactor your React App](https://youtu.be/DNdZ3-MiF1E)
-[Udacity MyReads #2 - React State Management](https://youtu.be/dM_Qp11yv80)
-[Udacity MyReads #3 - How to Work with API in React](https://youtu.be/MR5b3AbTW8g)
-[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+1. [Udacity MyReads #1 - How to Plan and Refactor your React App](https://youtu.be/DNdZ3-MiF1E)
+2. [Udacity MyReads #2 - React State Management](https://youtu.be/dM_Qp11yv80)
+3. [Udacity MyReads #3 - How to Work with API in React](https://youtu.be/MR5b3AbTW8g)
+4. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+5. [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
